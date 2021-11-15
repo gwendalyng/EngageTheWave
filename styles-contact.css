@@ -77,7 +77,7 @@ html, body {
     margin: 100px auto;
  	background: white ; /*this uses opacity of 75% for the background color*/
 	text-align: center;
-	border: ridge 8px rgb(109,152,163); 
+	border: solid 8px rgb(109,152,163); 
 	border-radius: 5px;
 }
 
@@ -135,7 +135,7 @@ nav {
 	text align: center;
 	margin-top: .2em;
 	margin:0px;
-	text-align: center;
+	text-align: center;bor
 
 	font-weight: 300;
 
